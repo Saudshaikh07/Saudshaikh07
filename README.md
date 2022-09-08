@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Saudshaikh07
-- 👀 I’m interested in building Tools/Projects using DevOps and Cloud. I also like troubleshooting and solving technical problems.
+- 👀 I’m interested in building Tools/Projects using DevOps and Cloud. I also like troubleshooting and solving Technical problems.
 - 🌱 I’m currently learning Cloud and DevOps technologies.
 - 💞️ I’m looking to collaborate on DevOps and Cloud.
 - 📫 How to reach me - you can reach out to me on me@saudshaikh.in
